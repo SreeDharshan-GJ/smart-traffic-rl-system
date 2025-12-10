@@ -228,11 +228,6 @@ See [Convex Docs](https://docs.convex.dev/production/) for deployment instructio
 
 This project is provided as-is for educational purposes.
 
-## 🙋 Support
 
-For issues or questions:
-1. Check Convex dashboard logs
-2. Review browser console for errors
-3. Verify all dependencies are installed
-4. Ensure Convex project is properly configured
+
 
